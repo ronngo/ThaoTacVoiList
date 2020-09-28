@@ -1,0 +1,13 @@
+D:\baitap\ThaoTacVoiList\bin\Debug\netcoreapp3.1\ThaoTacVoiList.exe
+D:\baitap\ThaoTacVoiList\bin\Debug\netcoreapp3.1\ThaoTacVoiList.deps.json
+D:\baitap\ThaoTacVoiList\bin\Debug\netcoreapp3.1\ThaoTacVoiList.runtimeconfig.json
+D:\baitap\ThaoTacVoiList\bin\Debug\netcoreapp3.1\ThaoTacVoiList.runtimeconfig.dev.json
+D:\baitap\ThaoTacVoiList\bin\Debug\netcoreapp3.1\ThaoTacVoiList.dll
+D:\baitap\ThaoTacVoiList\bin\Debug\netcoreapp3.1\ThaoTacVoiList.pdb
+D:\baitap\ThaoTacVoiList\obj\Debug\netcoreapp3.1\ThaoTacVoiList.csprojAssemblyReference.cache
+D:\baitap\ThaoTacVoiList\obj\Debug\netcoreapp3.1\ThaoTacVoiList.AssemblyInfoInputs.cache
+D:\baitap\ThaoTacVoiList\obj\Debug\netcoreapp3.1\ThaoTacVoiList.AssemblyInfo.cs
+D:\baitap\ThaoTacVoiList\obj\Debug\netcoreapp3.1\ThaoTacVoiList.csproj.CoreCompileInputs.cache
+D:\baitap\ThaoTacVoiList\obj\Debug\netcoreapp3.1\ThaoTacVoiList.dll
+D:\baitap\ThaoTacVoiList\obj\Debug\netcoreapp3.1\ThaoTacVoiList.pdb
+D:\baitap\ThaoTacVoiList\obj\Debug\netcoreapp3.1\ThaoTacVoiList.genruntimeconfig.cache
